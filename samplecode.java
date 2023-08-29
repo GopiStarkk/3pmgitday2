@@ -1,5 +1,7 @@
-import java.util.Scanner;  
-import java.lang.Math;  
+**************SECOND VERSION OF SOURCE CODE********************* 
+
+
+
 import java.io.printer; 
 import java.io.collection; 
 import java.io.scanner;
